@@ -1,0 +1,17 @@
+{
+  "welcome" : "Xush kelibsiz !",
+  "aboutLogIn" : "Q Allure mavjud hisobingizga kiring",
+  "forgot": "Parolni unutdingizmi ?",
+  "login": "Kirish",
+  "or using": "Yoki foydalanib ulaning",
+  "t-have-account": "Hisobingiz yo'qmi?",
+  "sign-up": "Ro'yxatdan o'tish",
+  "registration-title": "Keling, boshlaymiz!",
+  "create": "yaratmoq",
+  "have-account": "Hisobingiz bormi ?",
+  "login-here": "Bu yerda kiring",
+  "error-dialog": "Xato Mavjud !",
+  "about-error": "bo'sh joy mavjud!",
+  "is-title": "Parolda xatolik !",
+  "about-is": "Parolingizni qayta kiriting !"
+}

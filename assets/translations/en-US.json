@@ -1,0 +1,18 @@
+{
+  "welcome" : "Welcome back !",
+  "aboutLogIn" : "Log in to your existant account of Q Allure",
+  "forgot": "Forgot Password ?",
+  "login": "Log In",
+  "or using": "Or connect using",
+  "t-have-account": "Don't have account?",
+  "sign-up": "Sign Up",
+  "registration-title": "Let's Go Started !",
+  "aboutRegistration": "Create an to your existant account of Q Allure",
+  "create": "create",
+  "have-account": "Already have an account ?",
+  "login-here": "Login here",
+  "error-dialog": "Error Exists !",
+  "about-error": "space available!",
+  "is-title": "Password error !",
+  "about-is": "Enter the password again"
+}
